@@ -19,7 +19,7 @@ const CONFIG = {
   image: {
     // URL gambar utama (bisa dari URL publik atau path lokal)
     // Contoh: "https://i.imgur.com/k6lP0Wn.jpg" atau "./assets/foto.jpg"
-    url: "https://i.imgur.com/k6lP0Wn.jpg",
+    url: "https://drive.google.com/file/d/1nRSkUtbbB2vBOkKZdDxh3_JPpHXwjOfL/view?usp=sharing",
     
     // Alt text untuk aksesibilitas
     alt: "A romantic moment between two people"
