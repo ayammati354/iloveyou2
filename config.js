@@ -19,7 +19,8 @@ const CONFIG = {
   image: {
     // URL gambar utama (bisa dari URL publik atau path lokal)
     // Contoh: "https://i.imgur.com/k6lP0Wn.jpg" atau "./assets/foto.jpg"
-    url: "https://drive.google.com/drive-viewer/AKGpihZzmJTDoqO5HGfqeAKLBgl0BDuzObvxyQlfCVBQcfp-ZnJAxlSC5-j5ezoQVYPEvIjVsT5X-6G4cFnCo4JgQErEEzSLiOwjPg=w10000-h10000",
+    // TIPS GOOGLE DRIVE: Gunakan format https://lh3.googleusercontent.com/d/ID_FILE agar bisa muncul
+    url: "https://lh3.googleusercontent.com/d/1nRSkUtbbb2vBOkkZDdxh3_JPpHXwjOfL",
     
     // Alt text untuk aksesibilitas
     alt: "A romantic moment between two people"
