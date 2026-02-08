@@ -19,8 +19,8 @@ const CONFIG = {
   image: {
     // URL gambar utama (bisa dari URL publik atau path lokal)
     // Contoh: "https://i.imgur.com/k6lP0Wn.jpg" atau "./assets/foto.jpg"
-    // TIPS GOOGLE DRIVE: Gunakan format https://lh3.googleusercontent.com/d/ID_FILE agar bisa muncul
-    url: "https://drive.google.com/uc?export=view&id=1nRSkUtbbB2vBOkKZdDxh3_JPpHXwjOfL",
+    // Sekarang menggunakan file lokal yang sudah diunggah ke folder assets
+    url: "./assets/foto.jpg",
     
     // Alt text untuk aksesibilitas
     alt: "A romantic moment between two people"
